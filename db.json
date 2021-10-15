@@ -1,5 +1,7 @@
-[{
-	"author": "Matthew Jettson",
+{
+	"authors":[
+{
+	"name": "Matthew Jettson",
 	"posts": [{
 			"title": "My Hiking Trip!",
 			"preview": "Went hiking at Mt. Tabor",
@@ -17,7 +19,7 @@
 		}
 	]
 }, {
-	"author": "Micheal Scott",
+	"name": "Micheal Scott",
 	"posts": [{
 			"title": "Surfing with the Bro’s",
 			"preview": "Entered a surfing competition with my good friends",
@@ -35,7 +37,7 @@
 		}
 	]
 }, {
-	"author": "Jim Halpert",
+	"name": "Jim Halpert",
 	"posts": [{
 			"title": "Swimming With My Kids",
 			"preview": "Took my kids to the local pool and we went swimming",
@@ -53,7 +55,7 @@
 		}
 	]
 }, {
-	"author": "Dwight Shrute",
+	"name": "Dwight Shrute",
 	"posts": [{
 			"title": "Started up a local B&B",
 			"preview": "Decided to turn a portion of my house into a bed and breakfast.",
@@ -70,4 +72,6 @@
 			"views": 10000
 		}
 	]
-}]
+	}
+		]
+}
