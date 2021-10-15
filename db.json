@@ -1,0 +1,83 @@
+ {
+     "author": Matthew Jettson,
+     "posts": [
+             {
+                  "title": "My Hiking Trip!",
+                  "preview": "Went hiking at Mt. Tabor",
+                  "views": 28
+            },
+            {  
+                  "title": "Food in the Caribbean",
+                  "preview": "Had some awesome jerk chicken from a local place",
+              
+    "views": 35
+            },
+            {  
+                  "title": "Going out with the family!",
+                  "preview": "Took my family to the movies last Friday",
+                  "views": 50
+ }
+      ]
+},
+{
+     "author": Micheal Scott,
+     "posts": [
+             {
+                  "title": "Surfing with the Bro’s",
+                  "preview": "Entered a surfing competition with my good friends",
+                  "views": 100
+            },
+            {  
+                  "title": "Ice Cream Run",
+                  "preview": "Ran to get Ice Cream for everyone at the house and the president showed up!",
+                  "views": 0            },
+            {  
+                  "title": "Worst Day Ever",
+                  "preview": "The truck got totaled and we had to wait several hours in the insurance lobby",
+                  "views": 200
+ }
+      ]
+},
+{
+     "author": Jim Halpert,
+     "posts": [
+             {
+                  "title": "Swimming With My Kids",
+                  "preview": "Took my kids to the local pool and we went swimming",
+                  "views": 1000
+            },
+            {  
+                  "title": "Office Jokes",
+                  "preview": "Pranked one of my office buddies real good today",
+                  "views": 2000
+            },
+            {  
+                  "title": "White Water Rafting",
+                  "preview": "Me and the wife decided to try our hand at white water rafting",
+                  "views": 5000
+ }
+      ]
+},
+{
+     "author": Dwight Shrute,
+     "posts": [
+             {
+                  "title": "Started up a local B&B",
+                  "preview": "Decided to turn a portion of my house into a bed and breakfast.",
+                  "views": 5
+            },
+            {  
+                  "title": "Run in With Some Wild Geese",
+                  "preview": "Ran into some crazed geese in the parking lot outside my work and it did not go well",
+                  "views": 10
+            },
+            {  
+                  "title": "Thoughts on BattleStar Galactica S4",
+                  "preview": "Finally finished the latest season of battlestar galactica, here are my thoughts",
+                  "views": 10000
+ }
+      ]
+}
+
+
+
